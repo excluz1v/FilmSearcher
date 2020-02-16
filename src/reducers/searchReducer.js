@@ -56,4 +56,3 @@ export let fetchMovie = (id) => dispatch => {
         console.log(error)
     })
 }
-// axios.get(`http://www.omdbapi.com/?apikey=${APIKey}&i=tt0816692`).then(response => console.log(response))
